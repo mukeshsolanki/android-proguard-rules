@@ -1,0 +1,2 @@
+#Mockito
+-dontwarn org.mockito.**

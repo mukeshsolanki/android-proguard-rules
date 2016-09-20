@@ -1,0 +1,2 @@
+#Junit
+-dontwarn android.test.**
