@@ -5,7 +5,7 @@ Set of Proguard rules that need to be configured for some frequently used librar
 Request additional libraries through issues. Pull requests are welcome.
 
 ### Libraries
-* [GSON 2.7](https://github.com/google/gson) - [Rules](Gson.pro)
+* [GSON 2.7](https://github.com/google/gson) - [Rules](gson.pro)
 * [Timber 4.3.0](https://github.com/JakeWharton/timber) - [Rules](Timber.pro)
 * [RxJava 1.2.1](https://github.com/ReactiveX/RxAndroid) - [Rules](RxJava.pro)
 * [OkHttp 3.4.1](https://github.com/square/okhttp) - [Rules](OkHttp.pro)
