@@ -23,4 +23,4 @@ Request additional libraries through issues. Pull requests are welcome.
 * [FragmentArgs 3.0.2](https://github.com/sockeqwe/fragmentargs) - [Rules](rules/FragmentArgs.pro)
 * [Mockito 2.1.0-RC.1](https://github.com/mockito/mockito) - [Rules](rules/Mockito.pro)
 * [Junit 4.12](http://junit.org/junit4/) - [Rules](rules/Junit.pro)
-* Turn off Logging - [Rules](rulesTurnOffLogging/.pro)
+* Turn off Logging - [Rules](rules/TurnOffLogging/.pro)
