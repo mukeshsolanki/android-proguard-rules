@@ -1,2 +1,2 @@
-#Stetho
+#Picasso
 -dontwarn com.squareup.okhttp.**
