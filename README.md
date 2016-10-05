@@ -24,3 +24,4 @@ Request additional libraries through issues. Pull requests are welcome.
 * [Mockito 2.1.0-RC.1](https://github.com/mockito/mockito) - [Rules](rules/Mockito.pro)
 * [Junit 4.12](http://junit.org/junit4/) - [Rules](rules/Junit.pro)
 * Turn off Logging - [Rules](rules/TurnOffLogging.pro)
+* [Green robot eventbus 3.0.0](http://greenrobot.org/eventbus/) - [Rules](rules/EventBus.pro)
