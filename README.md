@@ -1,4 +1,5 @@
 #Android Proguard Rules
+[ ![PayPal](https://img.shields.io/badge/paypal-donate-yellow.svg) ](https://www.paypal.me/mukeshsolanki)
 
 Set of Proguard rules that need to be configured for some frequently used libraries 
 
