@@ -24,3 +24,5 @@ Request additional libraries through issues. Pull requests are welcome.
 * [Mockito 2.1.0-RC.1](https://github.com/mockito/mockito) - [Rules](rules/Mockito.pro)
 * [Junit 4.12](http://junit.org/junit4/) - [Rules](rules/Junit.pro)
 * Turn off Logging - [Rules](rules/TurnOffLogging.pro)
+* [Google Play Services](https://developers.google.com/android/guides/overview) - [Rules](https://github.com/pranaypatel512/android-proguard-rules/blob/master/rules/GooglePlayServices.pro) 
+* Support-v7-appcompat - [Rules](https://github.com/pranaypatel512/android-proguard-rules/blob/master/rules/Support-v7-appcompat.pro)
